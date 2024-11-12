@@ -1,6 +1,7 @@
 ## Hi there 👋
 ### I develop software solutions that delight and inspire users.
-“ Hi, **I'm Mohamed**, a dedicated software engineer with expertise in full-stack development. I create seamless web solutions tailored to your needs. Let's build something great together! ”
+
+As a passionate software engineer with solid experience in web development and full-stack development, I offer a wide range of services and web solutions to meet your needs. I specialize in web performance optimization to ensure your website runs smoothly and efficiently. Whether you're looking to build a new website from scratch or enhance an existing one, I am here to provide expert guidance and top-notch solutions.
 
 ### 🌐 About Me
 - 🔭 **Currently working on:** freelance web projects.
